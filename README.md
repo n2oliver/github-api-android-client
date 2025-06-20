@@ -1,3 +1,6 @@
+#DEPRECATED
+This is no longer supported, please consider using XXX instead.” If there is a reason for deprecating the repository, add it here. It should be unambiguous to anyone visiting the repository that it will not be maintained or updated again.
+
 # GitHub Api Android Client
 
 This project is a simple GitHub client whose main target is to test Android architecture solutions, provide samples for commom challenges that many projects faces, try to apply the best practices that are trending and test new architecture aproaches.
